@@ -40,7 +40,7 @@ width= "30px"
 src = " https://devicon-website.vercel.app/api/php/original.svg " > </img>
 ​
 <img 
-alt="larave"
+alt="laravel"
 title="laravel"
 width= "30px"
 src = " https://devicon-website.vercel.app/api/laravel/plain.svg " > </img>
