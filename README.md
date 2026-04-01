@@ -25,18 +25,20 @@ style="paddigng-right: 10px;"
  alt="Java"
 title="Java"
 width= "30px"
-style="paddigng-right: 10px;"
+style="paddigng-right: 30px;"
   src = " https://devicon-website.vercel.app/api/java/original.svg " > </img>
 <img
   alt="jS"
 title="JS"
 width= "30px"
    src = " https://devicon-website.vercel.app/api/javascript/original.svg " > </img>
+   
 <img 
 alt="PHP"
 title="PHP"
 width= "30px"
-src = " https://devicon-website.vercel.app/api/php/original.svg " > </img>​
+src = " https://devicon-website.vercel.app/api/php/original.svg " > </img>
+​
 <img 
 alt="larave"
 title="laravel"
